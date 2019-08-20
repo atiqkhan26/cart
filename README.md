@@ -24,6 +24,3 @@ Test
 
 mvn clean test
 
-BDD Test (Cucumber)
-
-mvn clean verify -Dit.test=ICartRunner -Dcucumber.options=" --format html:report/cucumber-html-report-myReport"
